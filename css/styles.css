@@ -69,3 +69,11 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+.profile-picture {
+	border-radius: 9999px;
+	width: 8rem;
+	height: 8rem;
+	margin: auto;
+	display: block;
+}
